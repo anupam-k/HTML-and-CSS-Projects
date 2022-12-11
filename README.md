@@ -1,5 +1,5 @@
 # _HTML and CSS Projects_
-
+<img src="https://img.shields.io/badge/Used-HTML5-orange"/> <img src="https://img.shields.io/badge/Used-CSS3-blue" /> <img src="https://img.shields.io/badge/Deployed-Netlify-seablue" />
 
 |  _Project_   |  _Repository Link 🔗_   |
 | --- | --- |
